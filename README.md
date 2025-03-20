@@ -2,16 +2,18 @@
 # Setup Instructions
 
 ## 1. Prerequisites:
+```
   * Python 3.8+ installed on your computer
   * A Discord account and admin access to a server
-
+```
 ## 2. Create a Discord Bot:
+```
   * Go to the Discord Developer Portal
   * Click "New Application" and give it a name
   * Go to the "Bot" tab and click "Add Bot"
   * Under "Privileged Gateway Intents", enable "Message Content Intent"
   * Copy your bot token (you'll need this later)
-
+```
 ## 3. Install Dependencies:
 ```
 pip install discord.py python-dotenv torch transformers accelerate bitsandbytes
