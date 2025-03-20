@@ -31,4 +31,4 @@ python bot_script.py
 # Usage
 Once the bot is running, you can interact with it in your Discord server:
 
-Type !ask What is machine learning? to ask it a question
+Type ```!ask What is machine learning? to ask it a question```
