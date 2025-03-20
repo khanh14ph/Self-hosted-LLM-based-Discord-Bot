@@ -19,12 +19,12 @@ pip install discord.py python-dotenv torch transformers accelerate bitsandbytes
 ## 4. Create a .env file in the same directory as your bot script with:
 DISCORD_TOKEN=your_discord_bot_token_here
 ## 5. Invite the Bot to Your Server:
-
+```
 In the Developer Portal, go to "OAuth2" > "URL Generator"
 Select scopes: "bot" and "applications.commands"
 Select permissions: "Send Messages", "Read Message History", etc.
 Copy the generated URL and open it in your browser to invite the bot
-
+```
 ## 6. Run the Bot:
 python bot_script.py
 
