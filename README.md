@@ -28,8 +28,9 @@ Select permissions: "Send Messages", "Read Message History", etc.
 Copy the generated URL and open it in your browser to invite the bot
 ```
 ## 6. Run the Bot:
+```
 python bot_script.py
-
+```
 # Usage
 Once the bot is running, you can interact with it in your Discord server:
 
